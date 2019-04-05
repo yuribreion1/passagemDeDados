@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">passagemDeDados</string>
+    <string name="input_nome">Digitar o nome abaixo:</string>
+    <string name="enviar">Enviar</string>
+</resources>
